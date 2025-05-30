@@ -8,11 +8,9 @@ This repository contains my accepted LeetCode solutions, organized by topic.
 
 ## 🗂️ Topics Covered
 
-- [Arrays](./arrays/README.md)
-- [Linked Lists](./linked-lists/README.md)
-- [Dynamic Programming](./dynamic-programming/README.md)
-- [Binary Search](./binary-search/README.md)
-- [Trees](./trees/README.md)
+- [Data-Structures](./Data-Structures)
+- [Algorithms](./Algorithms)
+
 
 ## 🧩 Sample Format
 
